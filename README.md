@@ -8,4 +8,4 @@ Note generali:
 - Metadati articoli: data, nome giornale, numero articolo, autore 
 - Metadati commenti: data, commento / commento a commento, username(s)
 
-<img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="250">
+<img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="500">
