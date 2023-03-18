@@ -8,4 +8,8 @@ Note generali:
 - Metadati articoli: data, nome giornale, numero articolo, autore 
 - Metadati commenti: data, commento / commento a commento, username(s)
 
+Query con wildcard:
+
+site:www.ilgiornale.it intitle:"ius soli" after:2017-01-01 before:2017-12-31
+
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="700" class="center">
