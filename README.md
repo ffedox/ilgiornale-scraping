@@ -22,6 +22,7 @@ O anche senza intitle e solo "ius soli"
 - Il coso dei commenti di repubblica è qui:
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/commentirepubblica.png">
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/commentirepubblica2.png">
+<img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/commentirepubblica3.png">
 
 # Idea generale
 
