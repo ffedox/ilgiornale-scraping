@@ -13,17 +13,22 @@ Query con wildcard:
 site:www.ilgiornale.it intitle:"ius soli" after:2017-01-01 before:2017-12-31
 O anche senza intitle e solo "ius soli"
 
-# Selenium per i commenti
+### Selenium per i commenti
 
 - Da capire come non farsi blacklistare(?) 
 - Usando ublock origin su chrome lo script ricomincia a funzionare 
-- Sicuramente andrà fatto ad-hoc per la repubblica purtroppo
 
-# Idea generale
+### Idea generale
+
+Da adattare in base al giornale
+
+# Il Giornale
 
 1. Tirare giù i link degli articoli da google -> [google_link_extractor.py](https://github.com/ffedox/corpus_ilgiornale/blob/main/google_link_extractor.py)
 2. Per ogni link, aprire il link e vedere quanti commenti ha -> [check_comment_amount.py](https://github.com/ffedox/corpus_ilgiornale/blob/main/check_comment_amount.py)
 3. Se ha 80 commenti, tirare giù l'articolo e i metadati + commenti più metadati -> da ristrutturare [test_selenium6.py](https://github.com/ffedox/corpus_ilgiornale/blob/main/test_selenium6.py), che per il momento estrae solo commenti e metadati
 4. Processare le cose in modo che siano nel formato corretto (tipo nome del .txt ecc.) ->
+
+# La Repubblica
 
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="700" class="center">
