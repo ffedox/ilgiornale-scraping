@@ -16,5 +16,6 @@ site:www.ilgiornale.it intitle:"ius soli" after:2017-01-01 before:2017-12-31
 
 - Da capire come non farsi blacklistare(?) 
 - Usando ublock origin su chrome lo script ricomincia a funzionare 
+- Sicuramente andrà fatto ad-hoc per la repubblica purtroppo
 
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="700" class="center">
