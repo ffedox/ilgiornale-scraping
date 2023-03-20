@@ -21,6 +21,8 @@ O anche senza intitle e solo "ius soli"
 
 # Idea generale
 
-Tirare giù i link degli articoli da google (save as > e poi si trova un modo per estrarli dall'.html) -> Per ogni link, aprire il link e vedere se ha almeno 80 commenti -> Se ha 80 commenti, tirare giù l'articolo e i metadati + commenti più metadati -> Processare le cose in modo che siano nel formato corretto (tipo nome del .txt ecc.) -> Rinse and repeat
+Tirare giù i link degli articoli da google (save as > e poi si trova un modo per estrarli dall'.html) -> [google_link_extractor.py](https://github.com/ffedox/corpus_ilgiornale/blob/main/google_link_extractor.py)
+
+Per ogni link, aprire il link e vedere se ha almeno 80 commenti -> Se ha 80 commenti, tirare giù l'articolo e i metadati + commenti più metadati -> Processare le cose in modo che siano nel formato corretto (tipo nome del .txt ecc.) -> Rinse and repeat
 
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="700" class="center">
