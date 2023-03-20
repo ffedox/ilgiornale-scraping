@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def check_comment_amount(url):
+def check_comment_amount_ilgiornale(url):
 
   # Make a GET request to the URL and fetch the HTML content
   response = requests.get(url)
@@ -19,3 +19,5 @@ def check_comment_amount(url):
 
   # Print the amount of comments
   print(comments_num)
+  
+def check_comment_amount_larepubblica(url):
