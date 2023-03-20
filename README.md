@@ -21,6 +21,7 @@ O anche senza intitle e solo "ius soli"
 - Esempio di articolo con commenti https://www.repubblica.it/politica/2017/06/21/news/ius_soli_ecco_come_funziona_nel_resto_d_europa-168672635/
 - Il coso dei commenti di repubblica è qui:
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/commentirepubblica.png">
+<img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/commentirepubblica2.png">
 
 # Idea generale
 
