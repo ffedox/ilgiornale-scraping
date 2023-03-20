@@ -32,7 +32,7 @@ Da adattare in base al giornale
 ## La Repubblica
 
 1. Tirare giù i link degli articoli da google -> [google_link_extractor.py](https://github.com/ffedox/corpus_ilgiornale/blob/main/google_link_extractor.py)
-2. Per ogni link, aprire il link e vedere quanti commenti ha -> [check_comment_amount.py](https://github.com/ffedox/corpus_ilgiornale/blob/main/check_comment_amount.py)
+2. Per ogni link, aprire il link e vedere quanti commenti ha -> da finire [check_comment_amount.py](https://github.com/ffedox/corpus_ilgiornale/blob/main/check_comment_amount.py)
 3. Se ha 80 commenti, tirare giù l'articolo e i metadati + commenti più metadati -> tutto da fare
 4. Processare le cose in modo che siano nel formato corretto (tipo nome del .txt ecc.) ->
 
