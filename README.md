@@ -1,4 +1,4 @@
-# corpus_ilgiornale
+### corpus_ilgiornale
 
 Note generali:
 
@@ -13,12 +13,12 @@ Query con wildcard:
 site:www.ilgiornale.it intitle:"ius soli" after:2017-01-01 before:2017-12-31
 O anche senza intitle e solo "ius soli"
 
-### Selenium per i commenti
+## Selenium per i commenti
 
 - Da capire come non farsi blacklistare(?) 
 - Usando ublock origin su chrome lo script ricomincia a funzionare 
 
-### Idea generale
+## Idea generale
 
 Da adattare in base al giornale
 
