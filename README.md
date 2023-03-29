@@ -6,10 +6,10 @@
 - Metadati articoli: data, nome giornale, numero articolo, autore 
 - Metadati commenti: data, commento / commento a commento, username(s)
 
-# Query 
+## Query 
 
 site:www.ilgiornale.it "ius soli" after:2017-01-01 before:2017-12-31
 
-# Struttura corpus
+## Struttura corpus
 
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="700" class="center">
