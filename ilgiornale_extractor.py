@@ -9,6 +9,7 @@ import tkinter as tk
 from tkinter import filedialog
 
 def check_comment_amount_ilgiornale(url):
+    
     response = requests.get(url)
     html_content = response.content
     soup = BeautifulSoup(html_content, "html.parser")
@@ -18,11 +19,13 @@ def check_comment_amount_ilgiornale(url):
     return comments_num
 
 def get_comment_count():
+    
     url = url_entry.get()
     comments_num = check_comment_amount_ilgiornale(url)
     result_label.config(text=f"Number of comments: {comments_num}")
 
 def clean_files(destination_directory):
+    
     for filename in os.listdir(destination_directory):
         if filename.endswith("_" + ".txt"):
             print(f"Eliminando {filename} (duplicato)")
@@ -68,6 +71,7 @@ def format_date_in_filename(filename):
     return new_filename
 
 def format_dates_in_destination(destination_directory):
+    
     for filename in os.listdir(destination_directory):
         new_filename = format_date_in_filename(filename)
         old_file_path = os.path.join(destination_directory, filename)
@@ -75,6 +79,7 @@ def format_dates_in_destination(destination_directory):
         os.rename(old_file_path, new_file_path)
 
 def extract_comments_ilgiornale(url, article_code, destination_directory):
+    
     browser = webdriver.Chrome()
 
     try:
@@ -109,6 +114,7 @@ def extract_comments_ilgiornale(url, article_code, destination_directory):
         browser.quit()
 
 def modify_filenames_if_content_starts_with_at(destination_directory):
+    
     # Loop over all the files in the directory
     for file_name in os.listdir(destination_directory):
         file_path = os.path.join(destination_directory, file_name)
@@ -135,6 +141,7 @@ def modify_filenames_if_content_starts_with_at(destination_directory):
                 os.rename(file_path, new_file_path)
 
 def extract_comments_button():
+    
     url = url_entry.get()
     article_code = code_entry.get()
     destination_directory = filedialog.askdirectory()
