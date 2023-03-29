@@ -1,6 +1,6 @@
 # corpus_ilgiornale
 
-# Note generali
+## Note generali
 
 - Articoli sullo ius soli del Giornale (www.ilgiornale.it) tra 01/01/17 e 31/12/17 con minimo 100 commenti /forse 80/
 - Metadati articoli: data, nome giornale, numero articolo, autore 
