@@ -10,8 +10,6 @@
 
 site:www.ilgiornale.it "ius soli" after:2017-01-01 before:2017-12-31
 
-<img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/commentirepubblica2.png">
-
 # Struttura corpus
 
 <img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="700" class="center">
