@@ -21,4 +21,5 @@ A copy of all the files can be downloaded by cloning the
 `pip install tk`
 3. Install [Selenium](https://www.selenium.dev/) <br />
 `pip install selenium` <br />
-4. Download [ChromeDriver](https://sites.google.com/chromium.org/driver/) <br />
+4. Download [ChromeDriver](https://sites.google.com/chromium.org/driver/) or install [Chromedriver-Autoinstaller](https://pypi.org/project/chromedriver-autoinstaller/) <br />
+`pip install chromedriver-autoinstaller` <br />
