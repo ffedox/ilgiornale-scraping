@@ -23,5 +23,5 @@ A copy of all the files can be downloaded by cloning the
 `pip install selenium` <br />
 4. Download [ChromeDriver](https://sites.google.com/chromium.org/driver/) or install [Chromedriver-Autoinstaller](https://pypi.org/project/chromedriver-autoinstaller/) <br />
 `pip install chromedriver-autoinstaller` <br />
-5. Add ChromeDriver [to system's PATH](https://www.browserstack.com/guide/run-selenium-tests-using-selenium-chromedriver) or include the path when instantiating webdriver.Chrome <br />
+5. Add ChromeDriver [to system's PATH](https://www.browserstack.com/guide/run-selenium-tests-using-selenium-chromedriver) or include the path when instantiating `webdriver.Chrome` <br />
 `driver = webdriver.Chrome(executable_path='C:/path/to/chromedriver.exe'` 
