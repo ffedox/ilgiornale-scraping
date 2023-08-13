@@ -18,6 +18,6 @@ A copy of all the files can be downloaded by cloning the
 `pip install selenium`
 4. Download the Chrome web driver
    
-`[https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/)`
+[https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/)
 
 
