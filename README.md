@@ -2,6 +2,10 @@
 
 This repository contains the software created to extract a corpus of comments and articles about the Ius Soli law from [Il Giornale](https://www.ilgiornale.it/). 
 
+# Data
+
+The extracted corpus is available in [.zip](https://drive.google.com/file/d/14CF-2DCGLnOTNV1WfgElgOEpRuUoYzfQ/view?usp=sharing) format.
+
 ## Requirements
 
 
