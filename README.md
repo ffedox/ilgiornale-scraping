@@ -1,22 +1,22 @@
 # Exctracting Comments with a Selenium Web Scraper
 
-This repository contains the software used to extract a corpus of comments and articles about the Ius Soli law from the website of [Il Giornale](https://www.ilgiornale.it/). 
+Software for extracting comments and articles from the website of the newspaper [Il Giornale](https://www.ilgiornale.it/).
 
-# Data
+## Getting the code
 
-The extracted corpus is available in [.zip](https://drive.google.com/file/d/14CF-2DCGLnOTNV1WfgElgOEpRuUoYzfQ/view?usp=sharing) format.
+A copy of all the files can be downloaded by cloning the
+[git](https://git-scm.com/) repository:
 
-## Requirements
+    git clone https://github.com/ffedox/ilgiornale_scraping
 
+## Setup and installation
+1. Install [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) <br />
+`pip install beautifulsoup4` <br />
+2. Install [Tkinter](https://docs.python.org/3/library/tkinter.html) <br />
+`pip install tk`
+3. Install [Selenium](https://www.selenium.dev/) <br />
+`pip install selenium`
+4. Download the Chrome web driver
+[https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/)
 
-
-## Query 
-
-site:www.ilgiornale.it "ius soli" after:2017-01-01 before:2017-12-31
-
-
-## Metadata
-
-- Metadati articoli: data, nome giornale, numero articolo, autore 
-- Metadati commenti: data, commento / commento a commento, username(s)
 
