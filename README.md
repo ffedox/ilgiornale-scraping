@@ -20,7 +20,7 @@ A copy of all the files can be downloaded by cloning the
 2. Install [Tkinter](https://docs.python.org/3/library/tkinter.html) <br />
 `pip install tk`
 3. Install [Selenium](https://www.selenium.dev/) <br />
-`pip install selenium`
-4. Install the [ChromeDriver](https://sites.google.com/chromium.org/driver/)
-`pip install chromedriver-autoinstaller`
-`chromedriver.install()`
+`pip install selenium` <br />
+4. Install [ChromeDriver](https://sites.google.com/chromium.org/driver/) <br />
+`pip install chromedriver-autoinstaller` <br />
+`chromedriver.install()` <br />
