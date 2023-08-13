@@ -1,11 +1,11 @@
 # Exctracting Comments with a Selenium Web Scraper
 
-Software for extracting comments and articles from the website of the newspaper [Il Giornale](https://www.ilgiornale.it/).
+Scripts for extracting comments and articles from the website of the newspaper [Il Giornale](https://www.ilgiornale.it/).
 
 ## Contents
 
-1. [Extract_article_ilgiornale.py](https://github.com/ffedox/ilgiornale_scraping/blob/main/extract_article_ilgiornale.py): code for extracting the text of an article given its URL.
-2. [Extract_comments_ilgiornale.py](https://github.com/ffedox/ilgiornale_scraping/blob/main/extract_comments_ilgiornale.py): code for extracting the comments of an article given its URL.
+1. [Extract_article_ilgiornale.py](https://github.com/ffedox/ilgiornale_scraping/blob/main/extract_article_ilgiornale.py): script for extracting the text of an article given its URL.
+2. [Extract_comments_ilgiornale.py](https://github.com/ffedox/ilgiornale_scraping/blob/main/extract_comments_ilgiornale.py): script for extracting the comments of an article given its URL.
 
 ## Getting the code
 
