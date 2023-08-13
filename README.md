@@ -1,15 +1,18 @@
-# corpus_ilgiornale
+# Exctracting Comments with a Selenium-Based Scraper
 
-## Note generali
+This repository contains the software created to extract a corpus of comments and articles about the Ius Soli law from (Il Giornale)[https://www.ilgiornale.it/]. 
 
-- Articoli sullo ius soli del Giornale (www.ilgiornale.it) tra 01/01/17 e 31/12/17 con minimo 100 commenti /forse 80/
-- Metadati articoli: data, nome giornale, numero articolo, autore 
-- Metadati commenti: data, commento / commento a commento, username(s)
+## Requirements
+
+
 
 ## Query 
 
 site:www.ilgiornale.it "ius soli" after:2017-01-01 before:2017-12-31
 
-## Struttura corpus
 
-<img src="https://github.com/ffedox/corpus_ilgiornale/blob/main/esempio_corpus.jpg" width="700" class="center">
+## Metadata
+
+- Metadati articoli: data, nome giornale, numero articolo, autore 
+- Metadati commenti: data, commento / commento a commento, username(s)
+
