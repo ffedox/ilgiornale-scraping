@@ -1,4 +1,4 @@
-# Exctracting Comments with a Selenium-Based Scraper
+# Exctracting Comments with a Selenium Web Scraper
 
 This repository contains the software created to extract a corpus of comments and articles about the Ius Soli law from (Il Giornale)[https://www.ilgiornale.it/]. 
 
