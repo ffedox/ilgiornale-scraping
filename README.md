@@ -1,4 +1,4 @@
-# Exctracting Comments with a Selenium Web Scraper
+# Exctracting comments with a Selenium-based web scraper
 
 Scripts for extracting comments and articles from the website of the newspaper [Il Giornale](https://www.ilgiornale.it/).
 
